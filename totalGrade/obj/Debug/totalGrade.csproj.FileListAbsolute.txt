@@ -1,0 +1,8 @@
+D:\c#\totalGrade\totalGrade\bin\Debug\totalGrade.exe.config
+D:\c#\totalGrade\totalGrade\bin\Debug\totalGrade.exe
+D:\c#\totalGrade\totalGrade\bin\Debug\totalGrade.pdb
+D:\c#\totalGrade\totalGrade\obj\Debug\totalGrade.csproj.AssemblyReference.cache
+D:\c#\totalGrade\totalGrade\obj\Debug\totalGrade.csproj.SuggestedBindingRedirects.cache
+D:\c#\totalGrade\totalGrade\obj\Debug\totalGrade.csproj.CoreCompileInputs.cache
+D:\c#\totalGrade\totalGrade\obj\Debug\totalGrade.exe
+D:\c#\totalGrade\totalGrade\obj\Debug\totalGrade.pdb
